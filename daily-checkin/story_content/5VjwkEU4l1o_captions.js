@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.52.25247.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.075%0D%0AHi%20everyone,%20today%20we%20will%20learn%20about%20the%20check-in%20tab%20on%20your%20medguide%20app.%0D%0A%0D%0A"}')
