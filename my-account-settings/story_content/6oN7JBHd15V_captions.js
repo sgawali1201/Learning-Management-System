@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.51.24979.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.258%0D%0AUnder%20the%20\u0027my%20health\u0027%20tab%20you%20can%20click%20on%20medication%20allergies%20as%20shown%20on%20the%20screen.%0D%0A%0D%0A"}')
