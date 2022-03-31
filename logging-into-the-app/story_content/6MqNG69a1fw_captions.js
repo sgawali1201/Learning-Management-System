@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.50.24832.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.519%0D%0AAfter%20entering%20your%20new%20password,%20you%20can%20click%20on%20the%20done%20button%20to%20complete%20the%20reset.%0D%0A%0D%0A"}')
