@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.50.24832.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.415%0D%0AUpon%20locating%20this%20screen%20on%20your%20app,%20you%20will%20click%20on%20the%20option%20called%20add%20med.%0D%0A%0D%0A"}')
